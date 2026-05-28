@@ -5,3 +5,12 @@
 @import url("../blocks/intro.css");
 @import url("../blocks/cite.css");
 @import url("../blocks/places.css");
+@import url("../blocks/grid.css");
+@import url("../blocks/bady.css");
+@import url("../blocks/place__artist-heading.css");
+@import url("../blocks/place__button.css");
+@import url("../blocks/place__content.css");
+@import url("../blocks/place__image.css");
+@import url("../blocks/place__paragraph.css");
+@import url("../blocks/place__title.css");
+@import url("../blocks/place__website.css");
