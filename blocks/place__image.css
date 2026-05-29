@@ -1,7 +1,6 @@
 .place__image {
-  grid-area: image;
-
   width: 100%;
-
-  display: block;
+  border-radius: 16px;
+  object-fit: cover;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
 }
