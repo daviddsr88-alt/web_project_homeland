@@ -1,7 +1,10 @@
 .section {
+  width: 100%;
+  border-radius: 16px;
+  object-fit: cover;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 16px;
+  gap: 32px;
   width: 100%;
-  margin-bottom: 92px;
 }
